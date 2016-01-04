@@ -1,0 +1,10 @@
+﻿{
+  "Tasks": {
+    "Clean": { "$type": "Clean" },
+    "Analyze": { "$type": "Analyze" }
+  },
+  "Metadata": {
+    "Name": "Blog",
+    "Description": "Articles part of a blog"
+  }
+}
